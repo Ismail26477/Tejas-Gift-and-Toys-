@@ -1,0 +1,25 @@
+import { MessageCircle, Phone } from "lucide-react";
+import { WHATSAPP_NUMBER, PHONE_NUMBER } from "@/data/products";
+
+const FloatingButtons = () => (
+  <div className="fixed bottom-6 right-6 z-50 flex flex-col gap-3">
+    <a
+      href={`tel:${PHONE_NUMBER}`}
+      className="flex h-14 w-14 items-center justify-center rounded-full bg-primary text-primary-foreground shadow-lg transition-transform hover:scale-110"
+      aria-label="Call us"
+    >
+      <Phone className="h-6 w-6" />
+    </a>
+    <a
+      href={`https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent("Hi! I'm interested in your products. Can you help?")}`}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="animate-float flex h-14 w-14 items-center justify-center rounded-full bg-green-600 text-white shadow-lg transition-transform hover:scale-110"
+      aria-label="WhatsApp"
+    >
+      <MessageCircle className="h-6 w-6" />
+    </a>
+  </div>
+);
+
+export default FloatingButtons;
