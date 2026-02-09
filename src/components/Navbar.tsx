@@ -28,7 +28,7 @@ const Navbar = () => {
     <nav className={`fixed top-0 z-50 w-full transition-all duration-300 ${scrolled ? "bg-card/95 shadow-lg backdrop-blur-md" : "bg-transparent"}`}>
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
         <button onClick={() => scrollTo("#home")} className="font-display text-xl font-bold text-primary">
-          Deepak Enterprise <span className="italic text-accent">Delumeo</span>
+          Tejas Gift and<span className="italic text-accent">Toys</span>
         </button>
 
         {/* Desktop */}
