@@ -41,10 +41,10 @@ const HeroSection = () => {
           Welcome to
         </p>
         <h1 className="mb-4 font-display text-4xl font-bold text-white drop-shadow-lg md:text-6xl lg:text-7xl">
-          Deepak Enterprise
+          Tejas Gift and
         </h1>
         <p className="mb-2 font-display text-2xl italic text-rose md:text-3xl">
-          Delumeo
+          Toys
         </p>
         <p className="mb-8 max-w-xl font-body text-lg text-white/90 md:text-xl">
           Your one-stop gift shop for teddy bears, premium hampers & unique gifts
