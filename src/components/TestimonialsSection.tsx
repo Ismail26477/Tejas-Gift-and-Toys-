@@ -4,7 +4,7 @@ import ScrollReveal from "./ScrollReveal";
 const testimonials = [
   {
     name: "Priya Sharma",
-    text: "Absolutely loved the teddy bear I ordered for my daughter's birthday! The quality is amazing and it was delivered so quickly. Highly recommend Deepak Enterprise!",
+    text: "Absolutely loved the teddy bear I ordered for my daughter's birthday! The quality is amazing and it was delivered so quickly. Highly recommend Tejas gift and toys!",
     rating: 5,
     tag: "Teddy Bear",
   },
@@ -16,7 +16,7 @@ const testimonials = [
   },
   {
     name: "Anita Desai",
-    text: "The crystal snow globe I bought is absolutely magical. My kids love it! Great customer service too — Deepak ji was very helpful on WhatsApp.",
+    text: "The crystal snow globe I bought is absolutely magical. My kids love it! Great customer service too — Tejas ji was very helpful on WhatsApp.",
     rating: 5,
     tag: "Unique Gift",
   },
