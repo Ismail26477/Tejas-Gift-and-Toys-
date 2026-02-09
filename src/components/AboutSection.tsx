@@ -16,7 +16,7 @@ const AboutSection = () => (
             Where Every Gift Tells a Story
           </h2>
           <p className="mb-4 font-body leading-relaxed text-muted-foreground">
-            Welcome to <strong className="text-foreground">Deepak Enterprise Delumeo</strong> — your premier destination for heartfelt gifts and cuddly companions. Nestled in the heart of the city, our shop has been spreading smiles and creating memories for years.
+            Welcome to <strong className="text-foreground">Tejas Gift and Toys</strong> — your premier destination for heartfelt gifts and cuddly companions. Nestled in the heart of the city, our shop has been spreading smiles and creating memories for years.
           </p>
           <p className="mb-6 font-body leading-relaxed text-muted-foreground">
             From the softest teddy bears to elegantly curated gift hampers and one-of-a-kind unique items, we handpick every product with love and care. Whether it's a birthday, anniversary, or just because — we have the perfect gift waiting for you.
