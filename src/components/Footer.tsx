@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="mx-auto max-w-6xl px-4">
         <div className="grid gap-8 md:grid-cols-3">
           <div>
-            <h3 className="mb-3 font-display text-xl font-bold">Deepak Enterprise <span className="italic text-rose">Delumeo</span></h3>
+            <h3 className="mb-3 font-display text-xl font-bold">Tejas Gift and <span className="italic text-rose">Toys</span></h3>
             <p className="font-body text-sm text-background/70">Your premier destination for teddy bears, premium hampers & unique gifts. Spreading smiles since day one.</p>
           </div>
           <div>
@@ -23,14 +23,14 @@ const Footer = () => {
           </div>
           <div>
             <h4 className="mb-3 font-body text-sm font-bold uppercase tracking-wider">Contact</h4>
-            <p className="font-body text-sm text-background/70">Phone: +91 83299 39085</p>
-            <p className="font-body text-sm text-background/70">WhatsApp: +91 83299 39085</p>
+            <p className="font-body text-sm text-background/70">Phone: +91 7875452408 </p>
+            <p className="font-body text-sm text-background/70">WhatsApp: +91 7875452408</p>
             <p className="mt-1 font-body text-sm text-background/70">Mon – Sat: 10 AM – 9 PM</p>
           </div>
         </div>
         <div className="mt-10 border-t border-background/10 pt-6 text-center">
           <p className="flex items-center justify-center gap-1 font-body text-sm text-background/50">
-            Made with <Heart className="h-4 w-4 text-primary" /> Deepak Enterprise Delumeo © {new Date().getFullYear()}
+            Made with <Heart className="h-4 w-4 text-primary" /> Tejas Gift and Toys © {new Date().getFullYear()}
           </p>
         </div>
       </div>
