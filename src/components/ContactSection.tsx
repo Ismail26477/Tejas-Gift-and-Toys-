@@ -30,21 +30,22 @@ const ContactSection = () => {
                 <MessageCircle className="h-6 w-6" />
                 <div>
                   <p className="font-body text-sm font-medium">WhatsApp</p>
-                  <p className="font-body text-lg font-bold">+91 83299 39085</p>
+                  <p className="font-body text-lg font-bold">+91 7875452408</p>
                 </div>
               </a>
               <a href={`tel:${PHONE_NUMBER}`} className="flex items-center gap-4 rounded-xl bg-primary p-4 text-primary-foreground transition hover:bg-primary/90">
                 <Phone className="h-6 w-6" />
                 <div>
                   <p className="font-body text-sm font-medium">Call Us</p>
-                  <p className="font-body text-lg font-bold">+91 83299 39085</p>
+                  <p className="font-body text-lg font-bold">+91 7875452408</p>
                 </div>
               </a>
               <div className="flex items-center gap-4 rounded-xl border border-border bg-card p-4">
                 <MapPin className="h-6 w-6 text-primary" />
                 <div>
                   <p className="font-body text-sm font-medium text-muted-foreground">Address</p>
-                  <p className="font-body font-semibold text-foreground">Deepak Enterprise Delumeo, Main Market</p>
+                  <p className="font-body font-semibold text-foreground">Tejas Gift and Toys, subhash nagar Viveka hospital prabhu purnima apartment shop.no.b1 
+Jaitala road</p>
                 </div>
               </div>
               <div className="flex items-center gap-4 rounded-xl border border-border bg-card p-4">
